@@ -20,3 +20,7 @@ Question 2: How many days (on average) did it take for each type of crime to be 
 The crime that took the longest to clear was Cont Sex Abuse of a Child with an average of 1615 days from the time it was reported to the time it was resolved. The minimum time to clear was 0 days. Excluding the 9 crimes that all averaged out to 0 days (including Liquor Law Violation and Hindering Apprehension), the next minimum was 0.25 days for Probation Violation. Crimes that take a longer time to resolve often involve  investigations, evidence collection, or multiple parties involved, leading to longer resolution processes. Crimes that are resolved within a day or less indicate situations where little to no investigation is required, likely due to the offender being easily identified. 
 
 ![image](https://github.com/ilianamca/Project-1/assets/130519405/9e2e51fa-4379-491a-8dd3-f5fc8a146e24)
+
+Question 3: How many crimes are reported to each APD District and how quickly is each district clearing their cases?
+
+The graph shows the annual number of reported crimes in each APD District with District 1 having the most crime reported at about 14,000 crimes per year and District C with below 500 crimes reported per year. This could indicate the districts with a higher crime rate have a greater prevalence of criminal activity in their jurisdiction or a larger population which would also mean a smaller population or a relatively safer environment in the districts with the lowest number of crimes being reported. 
