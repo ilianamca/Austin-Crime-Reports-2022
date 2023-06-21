@@ -24,3 +24,9 @@ The crime that took the longest to clear was Cont Sex Abuse of a Child with an a
 Question 3: How many crimes are reported to each APD District and how quickly is each district clearing their cases?
 
 The graph shows the annual number of reported crimes in each APD District with District 1 having the most crime reported at about 14,000 crimes per year and District C with below 500 crimes reported per year. This could indicate the districts with a higher crime rate have a greater prevalence of criminal activity in their jurisdiction or a larger population which would also mean a smaller population or a relatively safer environment in the districts with the lowest number of crimes being reported. 
+
+![District Final](https://github.com/ilianamca/Project-1/assets/130122599/1bf111a5-4751-4902-94a3-b2fa1ca9faef)
+
+
+
+
