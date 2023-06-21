@@ -12,4 +12,9 @@ Which if we think about human patterns. It makes sense that crimes are happening
 For the second part of the question, we looked at the data for Occurred Date. Which represents the day of which a report was created. Similarly to looking at the trend for reports throughout the day, we wanted to see what the trend for reports was like for the year. 
 Based on the data we can see that the reports are peaking in the middle of the year. This shocked us, you always hear about crime spiking over the holidays
 
+Question 2: How many days (on average) did it take for each type of crime to be cleared?
 
+The crime that took the longest to solve on average was Child Sex Abuse with an average clearance time of 1615 days. Crimes that take a longer time to resolve often involve complex investigations, extensive evidence collection, or multiple parties involved, leading to longer resolution processes.
+<img src="https://path/to/your/image.png" alt="Graph">"
+
+Many crimes were solved same day so our minimum clearance date was 0 days. Crimes that are resolved within a day or less indicate situations where little to no investigation is required. They include minor offenses or crimes where the perpetrator is easily identified or apprehended, resulting in a swift resolution.
