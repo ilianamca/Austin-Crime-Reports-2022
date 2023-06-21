@@ -27,6 +27,8 @@ The graph shows the annual number of reported crimes in each APD District with D
 
 ![District Final](https://github.com/ilianamca/Project-1/assets/130122599/1bf111a5-4751-4902-94a3-b2fa1ca9faef)
 
+We can see that most of the smaller districts that have a lower number of crimes reported per year are still taking just as long to clear as the districts with the most crime reported which could mean less resources or crimes that require a lengthy investigation.
 
+![District clearance final](https://github.com/ilianamca/Project-1/assets/130122599/07070a23-d599-40d8-b437-1dccb90dbf3e)
 
 
