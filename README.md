@@ -1,4 +1,5 @@
 Austin Crime Reports 2022
+
 #Austin Crime Reports 2022
 Question 1: Seeing if there is a trend of when crimes are being reported during the day, and then throughout the year.
 
